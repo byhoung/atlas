@@ -1,0 +1,228 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta name="viewport" content="width=2048, user-scalable=no" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <title>Braun Intertec Atlas</title>
+  <link rel="stylesheet" type="text/css" media="screen" href="css/iPicture.css"/>
+  <link rel="stylesheet" type="text/css" media="screen" href="css/menu.css"/>
+  <link rel="stylesheet" type="text/css" media="screen" href="css/style.css"/>
+  <link rel="stylesheet" type="text/css" media="screen" href="css/flat-ui.css"/>
+</head>
+<body>
+
+  <div id="pageContainer">
+    <div id="slideshow">
+      <div id="iPicture" data-interaction="tap">
+
+
+<!--******************
+**********************
+        MENU
+**********************
+**********************
+    <div class="menu">
+
+    <input type="checkbox" class="menu__checkbox--hidden" id="expand" name="expand" />
+    <label for="expand" class="menu__icon fui-list"></label>
+ 
+    <nav class="menu__nav">
+      <ul>
+        <a href="#" class="menu__item"><li>Home</li></a>
+        <a href="#" class="menu__item"><li>About</li></a>
+        <a href="#" class="menu__item"><li>Portofilio</li></a>
+        <a href="#" class="menu__item"><li>Contact</li></a>
+      </ul>
+    </nav>
+    </div>
+******************
+**********************
+    END OF MENU
+**********************
+**********************-->
+
+
+<div class="ip_slide">
+  <img class="ip_tooltipImg" src="images/Illustration.jpg">
+
+  <div class="blade1"></div>
+  <div class="blade2"></div> 
+  <div class="blade3"></div>  
+
+  <div class="ip_tooltip ip_img32 pulse-button fui-plus" style="top: 315px; left: 348px;" data-tooltipbg="bgblack" data-round="roundBgW" data-animationtype="ltr-slide">
+    <span><h2>Special Inspections</h2><br/><p>Braun Intertec is an industry leader in performing special inspections on construction-related projects. We support our commitment to you by requiring that our many special inspectors maintain International Code Council (ICC) certification in areas such as concrete reinforcement, masonry, structural steel, soils, wood, foundations, and fireproofing. By using our team of ICC-certified professionals with decades of accumulated experience, you can be confident that your project is inspected by qualified individuals.</p>
+    </span>
+  </div>
+    <div class="ip_tooltip ip_img32 pulse-button fui-plus" style="top: 428px; left: 89px;" data-tooltipbg="bgblack" data-round="roundBgW" data-animationtype="ltr-slide">
+      <span><h2>Oil and Gas</h2><br/><p>Whether we are performing a geotechnical evaluation on a new well pad, materials testing on a rail load-out facility, or weld inspections on miles of pipeline, Braun Intertec is rising to meet the needs and challenges of the oil and gas industry. </p>
+      </span>
+    </div>
+    <div class="ip_tooltip ip_img32 pulse-button fui-plus" style="top: 762px; left: 329px;" data-tooltipbg="bgblack" data-round="roundBgW" data-animationtype="ltr-slide">
+      <span><h2>Building Sciences</h2><br/><p>Building Science is the detailed analysis of building envelope materials and systems, and how they perform under various indoor and outdoor conditions. Our Building Science consultants provide services to support designers, contractors and building owners in developing building designs and implementing quality construction practices to help optimize building performance.  Services include technical plan reviews, building envelope consulting and commissioning services, energy audits and forensic evaluations that investigate water intrusion, vapor migration and condensation issues. </p>
+      </span>
+    </div>
+    <div class="ip_tooltip ip_img32 pulse-button fui-plus" style="top: 357px; left: 826px;" data-tooltipbg="bgblack" data-round="roundBgW" data-animationtype="ltr-slide">
+      <span><h2>Wind</h2><br/><p>For more than a decade, Braun Intertec has been a recognized leader in geotechnical, environmental and testing services for wind farm clients. We can serve your needs through geotechnical drilling, on-site-testing, nondestructive testing, and engineering services for soils, concrete, grout and steel reinforcement. We can also provide seismic testing, grout and bolt tensioning, environmental site assessments and extensive laboratory testing. </p>
+      </span>
+    </div>
+    <div class="ip_tooltip ip_img32 pulse-button fui-plus" style="top: 568px; left: 910px;" data-tooltipbg="bgblack" data-round="roundBgW" data-animationtype="ltr-slide">
+      <span><h2>Slope Stability</h2><br/><p>To support the challenging work of flood control structures and large embankment design, Braun Intertec uses finite element seepage, stability and deformation programs. These programs help us work closely with civil and structural engineering firms and construction contractors to demonstrate thorough complex modeling for how their structures will perform under the intended use. </p>
+      </span>
+    </div>
+    <div class="ip_tooltip ip_img32 pulse-button fui-plus" style="top: 518px; left: 1151px;" data-tooltipbg="bgblack" data-round="roundBgW" data-animationtype="rtl-slide">
+    <span><h2>Pipelines</h2><br/><p>Our services extend from weld inspection by certified technicians to environmental consulting on a pipeline's right of way. We know safety is the highest priority, which is why our employees receive ongoing safety training.  Some of our pipeline-related services include: Environmental site assessments, Geotechnical evaluations, Monitoring well installation and abandonment, and Radiographic and other nondestructive testing inspection of welds, piping and tanks.</p>
+      </span>
+    </div>
+    <div class="ip_tooltip ip_img32 pulse-button fui-plus" style="top: 644px; left: 1042px;" data-tooltipbg="bgblack" data-round="roundBgW" data-animationtype="ltr-slide">
+      <span><h2>Rail</h2><br/><p>From failing railroad embankments to contaminated rail yards, Braun Intertec consultants have been working with major railroad companies to deliver reliable solutions to their engineering and environmental needs. From railroad realignments to air sampling to constructing new stations for the Northstar Commuter Rail, we can provide geotechnical evaluations for railroad corridors, embankment failures and proposed intermodal site development; address environmental issues relating to soil and groundwater contamination; and perform compaction tests and soil sampling. </p>
+      </span>
+    </div>
+    <div class="ip_tooltip ip_img32 pulse-button fui-plus" style="top: 764px; left: 749px;" data-tooltipbg="bgblack" data-round="roundBgW" data-animationtype="ltr-slide">
+      <span><h2>Bus Rapid Transit</h2><br/><p>With mass transportation becoming a popular transportation option in our communities, we recognize that there is a need for more parking facilities to accommodate transit riders. Braun Intertec has provided geotechnical evaluations for many new park and ride and parking ramp facilities. Additional service offerings include environmental site assessments, construction observations, construction materials testing and special inspections, as well as nondestructive examination and petrography services for concrete. </p>
+      </span>
+    </div>
+    <div class="ip_tooltip ip_img32 pulse-button fui-plus" style="top: 799px; left: 900px;" data-tooltipbg="bgblack" data-round="roundBgW" data-animationtype="ltr-slide">
+      <span><h2>Pavement Assessments</h2><br/><p>Our professional pavement consultants help you evaluate your existing pavements and design a new pavement to meet any need. We also use various pavement analysis tools and methods to evaluate both new and old pavement conditions including:
+        <ul>
+          <li> Falling Weight Deflectometer (FWD)</li>
+          <li> Ground Penetrating Radar (GPR) </li>
+          <li> Global Positioning Systems (GPS) </li>
+          <li> Dynamic Cone Penetrometer (DCP) </li>
+          <li> Pavement Condition Index (PCI) surveys for surface condition and distress mapping </li>
+        </ul>
+      </p>
+    </span>
+  </div>
+  <div class="ip_tooltip ip_img32 pulse-button fui-plus" style="top: 925px; left: 808px;" data-tooltipbg="bgblack" data-round="roundBgW" data-animationtype="ltr-slide">
+    <span><h2>Braun Intertec Geothermal</h2><br/><p>Advanced ground heat exchanger (GHX) design and commissioning services for engineers, architects and contractors involved with the design and construction of new buildings or the retrofitting of existing structures. Our team of geothermal, civil, environmental, geotechnical and building science professionals deliver GHX solutions that can reduce installation costs, improve constructability, and assure long-term operational reliability. </p>
+    </span>
+  </div>
+  <div class="ip_tooltip ip_img32 pulse-button fui-plus" style="top: 946px; left: 582px;" data-tooltipbg="bgblack" data-round="roundBgW" data-animationtype="btt-slide">
+  <span><h2>Drilling</h2><br/><p>Using a large diversified fleet of drill rigs, we provide a wide range of soil, rock, environmental and contract drilling services on nearly any terrain.  Our well-maintained drilling fleet includes truck-mounted, all-terrain (ATV) and skid-mounted rigs that are used for a variety of drilling projects from an uneven grade, to work from a barge to drilling within a building.  Because we have an in-house fleet of rigs, you'll benefit from improvements in cost estimating and greater scheduling control which will get our equipment where you need it and when you need it.</p>
+    </span>
+  </div>
+  <div class="ip_tooltip ip_img32 pulse-button fui-plus" style="top: 1030px; left: 741px;" data-tooltipbg="bgblack" data-round="roundBgW" data-animationtype="btt-slide">
+    <span><h2>Geostructural Engineering</h2><br/><p>Our group of Geotechnical Engineers combined with our internal Structural Engineers allow us to design structural solutions and develop testing programs using to validate the design of these structures and demonstrate they will function as designed.  Types of work include:
+      <ul>
+        <li> Retaining wall design: sheet pile, soldier pile, soil nail, and auger cast secant</li>
+        <li> Micropile design and test pile reaction frame design</li>
+        <li> Falsework and formwork</li>
+        <li> Shoring and bracing of structures both vertical and lateral</li>
+        <li> Demolition plans for bridges and buildings</li>
+        <li> Roll-in/roll-out structures for railroad bridges and other structures</li>
+        <li> Underpinning</li>
+      </ul>
+    </p>
+  </span>
+</div>
+<div class="ip_tooltip ip_img32 pulse-button fui-plus" style="top: 1302px; left: 1183px;" data-tooltipbg="bgblack" data-round="roundBgW" data-animationtype="btt-slide">
+  <span><h2>Hydrogeology</h2><br/><p>When your site requires groundwater, storm water or surface water analysis, come to Braun Intertec for expertise in modeling, groundwater studies, infiltration testing and investigations. Our work for numerous public and private clients includes modeling for well field layout, multi-aquifer interaction analysis, bio-venting system design and dewatering projects. We also have national expertise with hydrogeologic evaluation pertaining to Karst terrain. </p>
+  </span>
+</div>
+<div class="ip_tooltip ip_img32 pulse-button fui-plus" style="top: 1044px; left: 1349px;" data-tooltipbg="bgblack" data-round="roundBgW" data-animationtype="btr-slide">
+  <span><h2>Flood Control</h2><br/><p>At Braun Intertec, we help design new flood control structures, and perform compliance determinations for existing flood control structures. In addition to levees and dams, we also evaluate floodwalls, excavation retention systems for construction and impoundment structures. <br/><br/>
+    To support the challenging work of flood control structures, Braun Intertec uses finite element seepage, stability and deformation programs. These programs help us work closely with civil and structural engineering firms and construction contractors to demonstrate thorough complex modeling how their structures will perform under the intended use and meet regulations. 
+  </p>
+</span>
+</div>
+<div class="ip_tooltip ip_img32 pulse-button fui-plus" style="top: 1077px; left: 1808px;" data-tooltipbg="bgblack" data-round="roundBgW" data-animationtype="rtl-slide">
+  <span><h2>Environmental Remediation</h2><br/><p>Aliquam congue urna in feugiat interdum. Quisque eu neque et turpis porta tempus. Aenean placerat dictum arcu, ut malesuada sem varius sit amet. Praesent dapibus magna turpis, at sodales ante hendrerit quis. Etiam at dolor vel tortor scelerisque mattis.</p>
+  </span>
+</div>
+<div class="ip_tooltip ip_img32 pulse-button fui-plus" style="top: 845px; left: 1864px;" data-tooltipbg="bgblack" data-round="roundBgW" data-animationtype="rtl-slide">
+  <span><h2>Brownfield Redevelopment</h2><br/><p>Sed placerat nunc quam, at mollis lectus vestibulum gravida. Aliquam erat volutpat. Nunc dolor lacus, porta quis ipsum quis, gravida blandit turpis. Curabitur at sapien nisl. Praesent eleifend, sapien non tristique mattis, massa tellus condimentum dolor, et congue arcu ante nec ipsum. </p>
+  </span>
+</div>
+<div class="ip_tooltip ip_img32 pulse-button fui-plus" style="top: 623px; left: 1800px;" data-tooltipbg="bgblack" data-round="roundBgW" data-animationtype="rtl-slide">
+  <span><h2>Industrial Hygiene</h2><br/><p>Engineering a strong structural foundation starts with a thorough understanding of soils and site characteristics. It&#039;s crucial to ascertain whether these soil and site characteristics are suitable for the structure you plan to build. </p>
+  </span>
+</div>
+<div class="ip_tooltip ip_img32 pulse-button fui-plus" style="top: 491px; left: 1528px;" data-tooltipbg="bgblack" data-round="roundBgW" data-animationtype="rtl-slide">
+  <span><h2>Transmission</h2><br/><p>Transmission towers are often constructed on a wide variety of soil types. Our geotechnical engineers, scientists and field technicians have worked on thousands of miles of transmission lines. Their expertise includes geotechnical evaluation and drilling, materials testing, resistivity testing, laboratory testing, engineering, on-site testing and inspection services for substation construction, as well as improvements and transmission tower support. We can also provide your project with technical evaluation and construction materials testing for the retrofit of existing power generation facilities.</p>
+  </span>
+</div>
+<div class="ip_tooltip ip_img32 pulse-button fui-plus" style="top: 410px; left: 1750px;" data-tooltipbg="bgblack" data-round="roundBgW" data-animationtype="rtl-slide">
+<span><h2>Aviation</h2><br/><p>Our work in the aviation market spans many services. Whether we're performing geotechnical evaluations for taxiways and runways, or environmental permitting for air emissions and hazardous waste licensing and soil sampling, our experienced engineers and scientists are able to help you get your project successfully off the ground.</p>
+  </span>
+</div>
+<div class="ip_tooltip ip_img32 pulse-button fui-plus" style="top: 1222px; left: 242px;" data-tooltipbg="bgblack" data-round="roundBgW" data-animationtype="btt-slide">
+  <span><h2>Foundation Engineering</h2><br/><p>When it comes to demonstrating the performance of systems during construction, we use Pile Driving Analysis (PDA), static load testing, static cone penetrometer, dynamic cone penetrometer, and excavation and compaction testing services. We have expertise with the following structure elements: Driven piles, Helical piers, Drilled shafts, Auger cast piles, Spread footings, and Mat foundations.</p>
+  </span>
+</div>
+<div class="ip_tooltip ip_img32 pulse-button fui-plus" style="top: 210px; left: 826px;" data-tooltipbg="bgblack" data-round="roundBgW" data-animationtype="ttb-slide">
+  <span><h2>Agile Frameworks</h2><br/><p>Cloud-based solutions including MetaField&reg;, a mobile application for automating field data collection; AgileStamp&reg;, for enabling PKI-based secured signing transactions; and AgilePort&reg;, a framework for collaborating with staff, customers and vendors.</p>
+  </span>
+</div>
+<div class="ip_tooltip ip_img32 pulse-button fui-plus" style="top: 740px; left: 1250px;" data-tooltipbg="bgblack" data-round="roundBgW" data-animationtype="ttb-slide">
+  <span><h2>Light Rail</h2><br/><p>Braun Intertec has experience working on large light rail construction projects providing services that range from the preliminary geotechnical investigations to the materials construction testing and inspections to make sure the system operates smoothly and safely. Our wide range of light rail services includes environmental, drilling and geotechnical engineering. Our in-house materials and analytical laboratories provide timely results for your project, helping to keep it on track.</p>
+  </span>
+</div>
+<div class="ip_tooltip ip_img32 pulse-button fui-plus" style="top: 690px; left: 1600px;" data-tooltipbg="bgblack" data-round="roundBgW" data-animationtype="rtl-slide">
+<span><h2>Transportation</h2><br/><p>If you're planning a new highway alignment, resurfacing a heavily used county road, or just starting out on a design-build bridge project, Braun Intertec can help you with your project from start to finish. Our transportation proficiency ranges from geotechnical evaluations, materials testing and pavement analysis engineering, to environmental assessments and right-of-way due diligence. Our experience extends beyond roads and bridges; you'll also see our consultation work on numerous airport, railroad, and transit projects. </p>
+  </span>
+</div>
+</div>
+<div class="plane"></div>
+<div id="clouds">
+  <div class="cloud x1"></div>
+  <div class="cloud x2"></div>
+  <div class="cloud x3"></div>
+  <div class="cloud x4"></div>
+  <div class="cloud x5"></div>
+</div>
+</div>
+<div class="slider_pager_box">
+        <ul id="bullets">
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div id="loadingMsg" class="page">
+    <div class="loader">
+      <h1>loading</h1>
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+
+    <div id="fb-root"></div>
+    <script type="text/javascript" src="js/jquery-2.1.0.js"></script>
+    <script type="text/javascript" src="js/jquery.mobile.custom.min.js"></script>
+    <script type="text/javascript" src="js/jquery.ipicture.js"></script>
+
+    <script type="text/javascript">
+     window.onload=function()
+     {
+        $("#iPicture").iPicture();
+
+
+        var currentPosition = 0;
+        var slideWidth = 1000;
+        var slides = $('.ip_slide');
+        var numberOfSlides = slides.length;
+
+        document.ontouchmove = function(event){
+        event.preventDefault();
+      }
+
+      // Wrap all .slides with #slideInner div
+      slides
+      .wrapAll('<div id="slideInner"></div>')
+        // Float left to display horizontally, readjust .slides width
+        .css({
+          'float' : 'left',
+          'width' : slideWidth
+        });
+
+        setTimeout(function(){
+          $('#loadingMsg').fadeOut( 1000, function() {
+        // Animation complete.
+      });
+        }, 1000);
+
+      };
+    </script>
+
+</body>
+</html>

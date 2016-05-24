@@ -1,0 +1,82 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400);
+
+* { box-sizing: border-box; }
+
+::selection {
+  background: transparent;
+}
+
+input[type="checkbox"] {
+  display: none;
+}
+
+.menu {
+  position:absolute;
+  display: block;
+  width: 25rem;
+  height: 6rem;
+  margin: 4rem 100rem ;
+  background-color: black;
+  opacity:0.8;
+  z-index:200;
+
+}
+
+.menu__icon {
+  display: block;
+  float: right;
+  color: white;
+  font-size: 2.4rem;
+  height: 6rem;
+  padding: 0.25rem 0.6rem 0.5rem 0.55rem;
+  cursor: pointer; 
+  
+  transition: color 0.3s, background-color 0.3s;
+}
+
+.menu__checkbox--hidden:checked + .menu__icon {
+  background-color: white;
+  color: black;
+}
+
+.menu__nav {
+  width: 25rem;
+  overflow: hidden;
+  clear: both;
+  height: 0;
+  transition: height 0.5s;
+}
+
+.menu__checkbox--hidden:checked ~ .menu__nav {
+  height: 12rem;
+}
+
+.menu__item {
+  display: block;
+  height: 3rem;
+  width: 25rem;
+  padding: 0.5rem 0 0.5rem 1rem;
+  text-decoration: none;
+  
+  background-color: white;
+  transition: color 0.3s, background-color 0.3s;
+}
+
+.menu__item:last-child {
+  border: none;
+}
+
+.menu__item:hover {
+  background-color: black;
+  color: white;
+}
+
+.menu__item li {
+  list-style: none;
+  font-size: 1.5rem;
+  font-weight: 300;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-weight:300;
+}
